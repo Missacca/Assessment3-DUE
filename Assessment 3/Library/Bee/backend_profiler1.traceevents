@@ -1,0 +1,608 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1697276279654557, "dur":2094, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279656659, "dur":124, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1697276279656825, "dur":28, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1697276279656854, "dur":448, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1697276279657338, "dur":637, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279657975, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279791810, "dur":135, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279791945, "dur":125, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792070, "dur":55, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792125, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792139, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792142, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792150, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792152, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792158, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792160, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792165, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792167, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792173, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792175, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792180, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792181, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792188, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792190, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792195, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792196, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792203, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792204, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792209, "dur":30, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792239, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792249, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792251, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792256, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792258, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792264, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792265, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792270, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792272, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792277, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792287, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279792319, "dur":2976, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1697276279657573, "dur":409, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279657983, "dur":5146, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279663148, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1697276279663154, "dur":359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279663516, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1697276279663520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279673112, "dur":2476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1697276279675589, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279675808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279675814, "dur":13729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279689738, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIWidgetsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279690083, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279690094, "dur":13396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIWidgetsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279703651, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279703829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279703834, "dur":10713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279714675, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279714783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279714787, "dur":11174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279726085, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279726219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279726223, "dur":11868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279738245, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279738383, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279738387, "dur":11963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279750512, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279750670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279750676, "dur":12263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1697276279763135, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1697276279763298, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279763304, "dur":12491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1697276279776009, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1697276279776197, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1697276279776210, "dur":11535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1697276279787921, "dur":3933, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279657609, "dur":381, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279657990, "dur":5148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279663148, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1697276279663255, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279666359, "dur":4170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1697276279670548, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279670584, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279671742, "dur":7314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279679081, "dur":405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279679490, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279679495, "dur":13529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279693211, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279693415, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279693423, "dur":11973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279705613, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279705797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279705801, "dur":10794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279716815, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279716975, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279716979, "dur":12247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279729433, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279729596, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279729600, "dur":11390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279741352, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279741717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279741721, "dur":11576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279753457, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279753595, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279753599, "dur":12325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1697276279766250, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1697276279766450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279766456, "dur":12351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1697276279779440, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1697276279780006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1697276279780019, "dur":9182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1697276279789636, "dur":2193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279657600, "dur":386, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279657986, "dur":5148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279663149, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1697276279663508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279672211, "dur":6736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1697276279678969, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279679286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279679291, "dur":12782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279692349, "dur":862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279693214, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279693221, "dur":11859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279705293, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279705538, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279705543, "dur":10511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279716192, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279716313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279716317, "dur":11490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279727950, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279728399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279728405, "dur":11374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279739933, "dur":517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279740453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279740457, "dur":10936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279751632, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279751803, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279751807, "dur":12238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1697276279764214, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1697276279764377, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279764383, "dur":7727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1697276279772298, "dur":452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1697276279772752, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1697276279772757, "dur":12181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1697276279785089, "dur":6715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279657632, "dur":363, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279657995, "dur":5141, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279663149, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1697276279663495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279670319, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1697276279673394, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279673606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279673939, "dur":9080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279683315, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279683554, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279683561, "dur":11843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279695593, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279695835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279695848, "dur":11827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279707792, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279707943, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279707977, "dur":11118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279719259, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279719449, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279719454, "dur":11478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279731079, "dur":823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279731904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279731908, "dur":10766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279742813, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279742945, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279742950, "dur":11838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279755103, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279755292, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279755297, "dur":10914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1697276279766592, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1697276279766858, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279766863, "dur":11824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1697276279779034, "dur":632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1697276279779670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1697276279779681, "dur":9504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1697276279789560, "dur":2276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279657656, "dur":344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279658000, "dur":5130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279663150, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1697276279663276, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279669345, "dur":2587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1697276279671950, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279672178, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279673404, "dur":6904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279680497, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279680739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279680745, "dur":12881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279694222, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279694490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279694503, "dur":11730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279706455, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279706592, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279706595, "dur":11191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279717896, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279718012, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279718016, "dur":11908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279730035, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279730527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279730532, "dur":11300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279741941, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279742042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279742049, "dur":12626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279755047, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279755247, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279755252, "dur":10965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1697276279766576, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1697276279766861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279766867, "dur":11940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1697276279779424, "dur":672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1697276279780100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1697276279780106, "dur":9134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1697276279789682, "dur":2138, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279657678, "dur":326, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279658004, "dur":5128, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279663147, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1697276279663256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279666840, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1697276279670332, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1697276279670372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279670380, "dur":4022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1697276279674436, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279674746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279674753, "dur":9825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279684936, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279685210, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279685229, "dur":15339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279700820, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279700997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279701067, "dur":10496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279711695, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279711826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279711833, "dur":10648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279722603, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279722707, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279722711, "dur":11844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279734686, "dur":444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279735133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279735139, "dur":11650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279746963, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279747118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279747127, "dur":11699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279758952, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279759062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279759069, "dur":7974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1697276279767279, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1697276279767506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279767512, "dur":11443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1697276279779540, "dur":884, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1697276279780428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1697276279780434, "dur":8839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1697276279789693, "dur":2115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279657707, "dur":301, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279658008, "dur":5132, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279663150, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1697276279663256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279666562, "dur":4561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1697276279671143, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1697276279671158, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279671161, "dur":11559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1697276279682759, "dur":352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279683116, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279683137, "dur":12945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279696318, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279696542, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279696551, "dur":11989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279708653, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279708766, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279708770, "dur":10452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279719357, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279719524, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279719528, "dur":11465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279731158, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279731485, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279731512, "dur":11024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279742661, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279742793, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279742797, "dur":11843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279755040, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279755208, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279755215, "dur":10899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1697276279766533, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1697276279766798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279766805, "dur":11980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1697276279779434, "dur":731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1697276279780169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1697276279780176, "dur":9092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1697276279789683, "dur":2131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279657730, "dur":282, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279658012, "dur":5121, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279663148, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1697276279663505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279671548, "dur":7465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1697276279679032, "dur":402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279679437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279679443, "dur":12334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279692070, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279692343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279692355, "dur":12596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279705108, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279705335, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279705340, "dur":10574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279716058, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279716196, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279716200, "dur":11581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279727948, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279728096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279728101, "dur":11790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279740131, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279740464, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279740468, "dur":10939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279751623, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279751800, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279751804, "dur":11963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1697276279763903, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":8, "ts":1697276279764096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279764102, "dur":7961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":8, "ts":1697276279772281, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1697276279772760, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1697276279772764, "dur":11971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1697276279784872, "dur":6935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279657757, "dur":259, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279658016, "dur":5122, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279663147, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1697276279663256, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279666188, "dur":5178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1697276279671383, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2.exe" }}
+,{ "pid":12345, "tid":9, "ts":1697276279671545, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279671549, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2.exe" }}
+,{ "pid":12345, "tid":9, "ts":1697276279675441, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279675651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279675658, "dur":16892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279692881, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279693067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279693074, "dur":12167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279705512, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279705693, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279705697, "dur":10741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279716607, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279716851, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279716856, "dur":11850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279728834, "dur":641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279729478, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279729482, "dur":11212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279740841, "dur":576, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279741420, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279741427, "dur":11427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279752975, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279753100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279753104, "dur":12434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1697276279765756, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":9, "ts":1697276279765957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279765967, "dur":11930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":9, "ts":1697276279778073, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level3" }}
+,{ "pid":12345, "tid":9, "ts":1697276279778235, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1697276279778241, "dur":10437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level3" }}
+,{ "pid":12345, "tid":9, "ts":1697276279788900, "dur":2940, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279657775, "dur":245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279658020, "dur":5122, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279663150, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1697276279663294, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279669156, "dur":3227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1697276279672400, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279672577, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279673524, "dur":6675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279680370, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279680597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279680604, "dur":12807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279693666, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279693967, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279693975, "dur":11647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279705793, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279705925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279705929, "dur":10969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279717034, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279717150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279717154, "dur":12358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279729631, "dur":311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279729944, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279729947, "dur":11266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279741422, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279741564, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279741568, "dur":11392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279753082, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279753191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279753196, "dur":11741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1697276279765156, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1697276279765319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279765330, "dur":11783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1697276279777528, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level5" }}
+,{ "pid":12345, "tid":10, "ts":1697276279777739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1697276279777749, "dur":10853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level5" }}
+,{ "pid":12345, "tid":10, "ts":1697276279788796, "dur":3054, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279657809, "dur":215, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279658024, "dur":5138, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279663162, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1697276279663271, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279668088, "dur":2494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1697276279670598, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279670640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279670644, "dur":32645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279703316, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279703479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279703486, "dur":10699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279714366, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279714523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279714531, "dur":10976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279725656, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279725782, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279725786, "dur":12099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279738057, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279738224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279738228, "dur":11215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279749583, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279749790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279749796, "dur":11510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279761493, "dur":814, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279762311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279763516, "dur":1936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":11, "ts":1697276279765929, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":11, "ts":1697276279766410, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279766416, "dur":12374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":11, "ts":1697276279779383, "dur":558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1697276279779945, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1697276279779954, "dur":9276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1697276279789679, "dur":2144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279657831, "dur":197, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279658028, "dur":5117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279663146, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1697276279663256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279668031, "dur":2444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1697276279670494, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1697276279670525, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279670532, "dur":3966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1697276279674535, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279674908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279674914, "dur":9647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279684908, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279685236, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279685245, "dur":13004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279698435, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279698591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279698601, "dur":11127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279709872, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279709995, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279709999, "dur":11810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279721929, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279722093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279722101, "dur":11391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279733627, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279733740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279733745, "dur":11099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279744992, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279745145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279745151, "dur":11678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279756948, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279757058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279757062, "dur":11089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1697276279768323, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1697276279768481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1697276279768490, "dur":23160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1697276279791768, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":12, "ts":1697276279791770, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279657851, "dur":181, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279658032, "dur":5135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279663167, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1697276279663255, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279666733, "dur":3827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1697276279670578, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279670612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279671326, "dur":21079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279692489, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279692788, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279692795, "dur":12247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279705243, "dur":301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279705547, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279705552, "dur":10921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279716625, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279716864, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279716900, "dur":11533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279728557, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279729010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279729014, "dur":11460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279740603, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279740878, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279740882, "dur":11297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279752314, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279752444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279752448, "dur":12348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":13, "ts":1697276279765102, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":13, "ts":1697276279765419, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279765429, "dur":11805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":13, "ts":1697276279777592, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level4" }}
+,{ "pid":12345, "tid":13, "ts":1697276279777811, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1697276279777816, "dur":10856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/level4" }}
+,{ "pid":12345, "tid":13, "ts":1697276279788879, "dur":2966, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279657872, "dur":164, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279658036, "dur":5108, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279663148, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1697276279663264, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279667613, "dur":3775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1697276279671404, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1697276279671435, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279672770, "dur":15625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1697276279688446, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279688671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279688686, "dur":13184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279702009, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279702223, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279702232, "dur":10327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279712751, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279712916, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279712923, "dur":11113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279724197, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279724371, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279724376, "dur":12464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279736959, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279737099, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279737105, "dur":11042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279748296, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279748424, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279748430, "dur":11221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279759885, "dur":531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279760420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279760430, "dur":6675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1697276279767280, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":14, "ts":1697276279767505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1697276279767512, "dur":13370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":14, "ts":1697276279781062, "dur":10748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279657895, "dur":145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279658040, "dur":5108, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279663149, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1697276279663258, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279666619, "dur":3697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1697276279670335, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1697276279670372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279670379, "dur":4477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1697276279674898, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279675116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279675121, "dur":14914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279690200, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279690352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279690358, "dur":13151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279703678, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279703862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279703867, "dur":10403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279714411, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279714612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279714616, "dur":10919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279725688, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279725822, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279725826, "dur":11957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279737919, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279738110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279738117, "dur":11321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279749578, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279749746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279749753, "dur":11750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1697276279761643, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":15, "ts":1697276279761766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279761878, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":15, "ts":1697276279763896, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":15, "ts":1697276279764079, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279764083, "dur":7200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":15, "ts":1697276279771432, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1697276279771577, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1697276279771583, "dur":12879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1697276279784623, "dur":7182, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279657918, "dur":126, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279658044, "dur":5091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279663150, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1697276279663501, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279670726, "dur":7660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1697276279678439, "dur":416, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279678859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279678869, "dur":12383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279691476, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279691775, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279691791, "dur":12166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279704107, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279704241, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279704245, "dur":11146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279715511, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279715640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279715644, "dur":11729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279727501, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279727624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279727629, "dur":11984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279739778, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279740248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279740254, "dur":11112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279751559, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279751757, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279751762, "dur":12102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1697276279764051, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1697276279764220, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279764225, "dur":7923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1697276279772315, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1697276279772525, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1697276279772530, "dur":12585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ASUS/Desktop/Assessment/Assessment 2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1697276279785250, "dur":6610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1697276279797189, "dur":1820, "ph":"X", "name": "ProfilerWriteOutput" }
+,
